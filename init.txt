@@ -10,3 +10,7 @@ function test(){
 }
 
 /* */
+
+function test1(){
+	//asd
+}

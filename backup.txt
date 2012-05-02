@@ -6,4 +6,4 @@ function test(){
 	// 2
 	
 	// 3
-}
+}asdasd
